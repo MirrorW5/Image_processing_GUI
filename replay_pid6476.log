@@ -1,0 +1,193 @@
+JvmtiExport can_access_local_variables 0
+JvmtiExport can_hotswap_or_post_breakpoint 0
+JvmtiExport can_post_on_exceptions 0
+# 648 ciObject found
+ciInstanceKlass javax/swing/Popup$HeavyWeightWindow 1 1 73 10 10 9 10 10 10 10 100 10 10 10 10 10 7 7 100 1 1 1 1 1 100 100 100 1 1 1 1 1 1 12 12 7 12 12 12 7 12 12 1 12 12 12 12 12 100 1 1 1 1 1 1 1 1 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ciMethodData java/awt/Container preProcessKeyEvent (Ljava/awt/event/KeyEvent;)V 2 5403 orig 264 104 147 213 101 0 0 0 0 80 190 193 203 31 2 0 0 160 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 17 1 0 0 81 160 0 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 6 0 2 0 0 0 80 0 0 0 255 255 255 255 7 0 6 0 0 0 0 0 data 10 0x60007 0x0 0x50 0x140a 0xb0005 0xff0 0x21fcd8ed350 0x1e 0x21fcd8cadb0 0x3fc oops 2 6 com/mathworks/toolbox/matlab/matlabwindowjava/LightweightCEFBrowser$2 8 javax/swing/JPanel
+ciMethod java/security/DomainCombiner combine ([Ljava/security/ProtectionDomain;[Ljava/security/ProtectionDomain;)[Ljava/security/ProtectionDomain; 0 0 1 0 -1
+ciInstanceKlass java/security/DomainCombiner 0 0 9 100 100 1 1 1 1 1 1
+ciMethodData java/awt/Component dispatchMouseWheelToAncestor (Ljava/awt/event/MouseWheelEvent;)Z 1 4060 orig 264 104 147 213 101 0 0 0 0 80 250 226 197 31 2 0 0 96 10 0 0 200 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 12 8 0 0 33 3 0 0 129 62 0 0 0 0 0 0 0 0 0 0 2 0 0 0 1 0 41 0 2 0 0 0 16 9 0 0 255 255 255 255 5 0 1 0 0 0 0 0 data 290 0x10005 0x0 0x21fcdac8e70 0x64 0x0 0x0 0x50005 0x0 0x21fcdac8d10 0x64 0x0 0x0 0xb0005 0x0 0x21fcdac8e70 0x64 0x0 0x0 0xf0005 0x0 0x21fcdac8d10 0x64 0x0 0x0 0x1a0005 0x0 0x21fcdac8bb0 0x64 0x0 0x0 0x1d0007 0x64 0x180 0x0 0x260005 0x0 0x0 0x0 0x0 0x0 0x300002 0x0 0x360005 0x0 0x0 0x0 0x0 0x0 0x3a0005 0x0 0x0 0x0 0x0 0x0 0x3d0005 0x0 0x0 0x0 0x0 0x0 0x400005 0x0 0x0 0x0 0x0 0x0 0x430005 0x0 0x0 0x0 0x0 0x0 0x460005 0x0 0x0 0x0 0x0 0x0 0x4a0005 0x1 0x21fcdac8d10 0x63 0x0 0x0 0x520005 0x0 0x21fcdac8d10 0x64 0x0 0x0 0x590007 0x0 0x168 0x834 0x5f0005 0x640 0x21fcd8ed350 0x64 0x21fcd8cadb0 0x190 0x620007 0x0 0x118 0x834 0x680005 0x640 0x21fcd8ed350 0x64 0x21fcd8cadb0 0x190 0x700005 0x640 0x21fcd8ed350 0x64 0x21fcd8cadb0 0x190 0x770004 0xfffffffffffff830 0x21fcd8ed350 0x1 0x21fcd8cadb0 0x4 0x7a0007 0x64 0x68 0x7d0 0x7f0005 0x5dc 0x21fcd8ed350 0x64 0x21fcd8cadb0 0x190 0x840003 0x7d0 0xfffffffffffffeb0 0x8d0005 0x0 0x21fcdac8bb0 0x64 0x0 0x0 0x900007 0x64 0x120 0x0 0x9a0002 0x0 0xa00005 0x0 0x0 0x0 0x0 0x0 0xa50005 0x0 0x0 0x0 0x0 0x0 0xa80005 0x0 0x0 0x0 0x0 0x0 0xab0005 0x0 0x0 0x0 0x0 0x0 0xae0005 0x0 0x0 0x0 0x0 0x0 0xb30007 0x0 0x370 0x64 0xb90005 0x0 0x21fcdac91e0 0x64 0x0 0x0 0xbc0007 0x64 0x320 0x0 0xc60005 0x0 0x0 0x0 0x0 0x0 0xca0005 0x0 0x0 0x0 0x0 0x0 0xce0005 0x0 0x0 0x0 0x0 0x0 0xd40005 0x0 0x0 0x0 0x0 0x0 0xd80005 0x0 0x0 0x0 0x0 0x0 0xdc0005 0x0 0x0 0x0 0x0 0x0 0xe00005 0x0 0x0 0x0 0x0 0x0 0xe40005 0x0 0x0 0x0 0x0 0x0 0xe80005 0x0 0x0 0x0 0x0 0x0 0xec0005 0x0 0x0 0x0 0x0 0x0 0xf00005 0x0 0x0 0x0 0x0 0x0 0xf30002 0x0 0xfb0005 0x0 0x0 0x0 0x0 0x0 0x1020005 0x0 0x0 0x0 0x0 0x0 0x1070005 0x0 0x0 0x0 0x0 0x0 0x10a0007 0x0 0x50 0x0 0x10e0005 0x0 0x0 0x0 0x0 0x0 0x1190003 0x64 0x18 oops 19 2 java/awt/event/MouseWheelEvent 8 org/cef/browser/CefBrowserWr$3 14 java/awt/event/MouseWheelEvent 20 org/cef/browser/CefBrowserWr$3 26 sun/util/logging/PlatformLogger 80 org/cef/browser/CefBrowserWr$3 86 org/cef/browser/CefBrowserWr$3 96 com/mathworks/toolbox/matlab/matlabwindowjava/LightweightCEFBrowser$2 98 javax/swing/JPanel 106 com/mathworks/toolbox/matlab/matlabwindowjava/LightweightCEFBrowser$2 108 javax/swing/JPanel 112 com/mathworks/toolbox/matlab/matlabwindowjava/LightweightCEFBrowser$2 114 javax/swing/JPanel 118 com/mathworks/toolbox/matlab/matlabwindowjava/LightweightCEFBrowser$2 120 javax/swing/JPanel 128 com/mathworks/toolbox/matlab/matlabwindowjava/LightweightCEFBrowser$2 130 javax/swing/JPanel 137 sun/util/logging/PlatformLogger 183 com/mathworks/mde/desk/MLMainFrame
+ciMethodData java/awt/AWTEvent copyPrivateDataInto (Ljava/awt/AWTEvent;)V 1 291 orig 264 104 147 213 101 0 0 0 0 168 56 228 197 31 2 0 0 24 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 17 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 72 0 0 0 217 6 0 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 200 1 0 0 255 255 255 255 4 0 9 0 0 0 0 0 data 57 0x90004 0x0 0x21fcdac93f0 0xdb 0x0 0x0 0xc0007 0x0 0x198 0xdb 0x100004 0x0 0x21fcdac93f0 0xdb 0x0 0x0 0x130007 0x0 0x148 0xdb 0x160002 0xdb 0x1b0007 0x0 0x118 0xdb 0x200005 0xdb 0x0 0x0 0x0 0x0 0x270005 0xdb 0x0 0x0 0x0 0x0 0x2a0003 0xdb 0x98 0x340005 0x0 0x0 0x0 0x0 0x0 0x370007 0x0 0x50 0x0 0x400005 0x0 0x0 0x0 0x0 0x0 oops 2 2 java/awt/event/MouseEvent 12 java/awt/event/MouseEvent
+ciMethodData java/awt/Container dispatchEventToSelf (Ljava/awt/AWTEvent;)V 1 0 orig 264 104 147 213 101 0 0 0 0 0 154 193 203 31 2 0 0 56 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 16 0 0 0 255 255 255 255 2 0 2 0 0 0 0 0 data 2 0x20002 0x0 oops 0
+ciMethodData java/awt/event/InputEvent consume ()V 2 330 orig 264 104 147 213 101 0 0 0 0 200 14 228 197 31 2 0 0 32 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 77 68 79 32 101 120 116 114 97 32 100 97 116 97 32 108 111 99 107 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 109 0 0 0 233 6 0 0 1 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 3 0 1 0 0 0 0 0 0 0 255 255 255 255 0 0 0 0 0 0 0 0 data 0 oops 0
+ciMethod java/awt/Event <init> (Ljava/lang/Object;JIIIIILjava/lang/Object;)V 49 1 6 0 -1
+ciMethod java/awt/Event <init> (Ljava/lang/Object;JIIIII)V 49 1 6 0 -1
+ciMethod java/awt/Event <init> (Ljava/lang/Object;ILjava/lang/Object;)V 0 0 1 0 -1
+ciMethod java/awt/Event translate (II)V 193 1 24 0 -1
+ciMethod java/awt/Event consume ()V 0 0 1 0 -1
+ciMethod java/awt/Event isConsumed ()Z 49 1 6 0 0
+ciMethod java/awt/Event getOldEventKey (Ljava/awt/event/KeyEvent;)I 0 0 1 0 -1
+ciMethod java/awt/Event getKeyEventChar ()C 0 0 1 0 0
+ciInstanceKlass java/awt/Event 1 1 300 7 10 9 9 9 9 9 9 9 9 9 9 9 10 10 9 10 100 3 100 10 8 10 10 8 8 10 8 10 8 10 8 10 8 8 10 8 10 10 8 10 8 7 10 10 10 7 100 1 1 1 1 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 3 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 5 0 1 1 1 1 1 1 1 100 100 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 100 1 1 1 1 1 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 12 1 1 1 12 12 1 1 12 1 12 1 12 1 12 1 1 12 1 12 100 12 1 12 1 1 7 12 7 12 12 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+staticfield java/awt/Event actionKeyCodes [[I 26 [[I
+ciInstanceKlass sun/awt/UngrabEvent 0 0 42 100 10 100 10 8 10 10 10 8 10 100 1 1 1 3 1 1 1 1 1 1 1 1 1 12 1 12 1 12 12 12 1 12 1 1 1 1 1 1 1 1
+ciMethod java/lang/Object <init> ()V 4097 1 947216 0 80
+ciMethod java/lang/Object getClass ()Ljava/lang/Class; 3073 1 384 0 -1
+ciMethod java/lang/Object equals (Ljava/lang/Object;)Z 2121 1 16924 0 48
+ciMethod java/lang/Object toString ()Ljava/lang/String; 0 0 122 0 -1
+ciMethod java/lang/Object notify ()V 2049 1 256 0 -1
+instanceKlass com/mathworks/mde/editor/breakpoints/MatlabDebugInterestNotifier$7
+instanceKlass ca/odell/glazedlists/impl/adt/barcode2/SimpleNode
+instanceKlass ca/odell/glazedlists/impl/event/BlockSequence$Iterator
+instanceKlass com/mathworks/mde/editor/breakpoints/MatlabDebugInterestNotifier$6
+instanceKlass com/mathworks/mlservices/MatlabDebugServices$BreakpointInfo
+instanceKlass com/mathworks/widgets/grouptable/EditOnClickHandler$4
+instanceKlass com/mathworks/mlwidgets/explorer/widgets/table/FileTable$4$1
+instanceKlass com/mathworks/services/mlx/MlxFileUtils$LiveFunctionFlagListener
+instanceKlass com/mathworks/services/opc/OpcPackage
+instanceKlass sun/swing/MenuItemLayoutHelper$ColumnAlignment
+instanceKlass sun/swing/MenuItemLayoutHelper$LayoutResult
+instanceKlass javax/swing/tree/TreeModel
+instanceKlass com/jgoodies/looks/LookUtils
+instanceKlass com/jgoodies/looks/common/RenderingUtils
+instanceKlass com/mathworks/mwswing/MouseUtils
+instanceKlass com/mathworks/hg/util/NativeHG
+instanceKlass com/mathworks/hg/util/HGPeerQueue
+instanceKlass sun/swing/MenuItemLayoutHelper$RectSize
+instanceKlass javax/swing/PopupFactory
+instanceKlass javax/swing/plaf/basic/BasicPopupMenuUI$MouseGrabber$1
+instanceKlass com/mathworks/mlwidgets/explorer/model/actions/RegularMenu
+instanceKlass com/mathworks/mlwidgets/explorer/extensions/matlab/PathAffordanceActionProvider$1$1
+instanceKlass com/mathworks/mlwidgets/explorer/model/actions/Context
+instanceKlass com/mathworks/mlwidgets/explorer/model/actions/PopupMenu
+instanceKlass com/mathworks/mlwidgets/explorer/model/actions/DynamicMenuUtils$1
+instanceKlass com/mathworks/mlwidgets/explorer/model/actions/DynamicMenuContext
+instanceKlass com/mathworks/mlwidgets/explorer/model/actions/Menu
+instanceKlass com/mathworks/mlwidgets/explorer/model/actions/DynamicMenuUtils
+instanceKlass com/mathworks/mlwidgets/explorer/model/actions/ContextMenuListener$1
+instanceKlass com/mathworks/mde/editor/breakpoints/BreakpointDialogs
+instanceKlass javax/swing/Autoscroller
+instanceKlass com/mathworks/toolstrip/accessories/ToolstripContextMenu$PopupCloser
+instanceKlass com/mathworks/toolstrip/accessories/ToolstripContextMenu$ToolInfo
+instanceKlass com/mathworks/mde/editor/breakpoints/BreakpointInstallationResult
+instanceKlass com/mathworks/mde/editor/MFilePathUtil
+instanceKlass com/mathworks/mde/editor/plugins/matlab/MatlabBreakpointMessageService$9
+instanceKlass com/mathworks/system/editor/toolstrip/SystemLiveEditorToolstripTabContributor$Listeners$2$1
+instanceKlass com/mathworks/mde/editor/MatlabEditorApplication$12$2
+instanceKlass com/mathworks/mde/editor/plugins/matlab/MatlabBreakpointFileService$1$1
+instanceKlass com/mathworks/mde/liveeditor/widget/rtc/export/FileUtils
+instanceKlass sun/security/action/GetIntegerAction
+instanceKlass com/mathworks/widgets/desk/DeferredRunnable
+instanceKlass com/mathworks/mde/liveeditor/widget/rtc/AbstractDocumentBackingStore$1
+instanceKlass com/mathworks/util/AbsoluteFile
+instanceKlass com/mathworks/widgets/datamodel/AbstractFileBackingStore$ExceptionInteractionModel
+instanceKlass com/mathworks/mde/liveeditor/LiveEditorClient$45
+instanceKlass com/mathworks/widgets/tooltip/ToolTipAndComponentAWTListener$5
+instanceKlass com/mathworks/mde/editor/MatlabEditorApplication$13$1
+instanceKlass java/awt/Event
+instanceKlass com/sun/java/swing/plaf/windows/AnimationController$AnimationState
+instanceKlass com/sun/java/swing/plaf/windows/AnimationController$1
+instanceKlass com/mathworks/mde/editor/plugins/editordataservice/VariableHighlightStatusBarFeature$1$1
+instanceKlass com/mathworks/mde/editor/plugins/editordataservice/VariableHighlightStatusBarFeature$1
+instanceKlass com/mathworks/widgets/text/mcode/variables/VariableStatusBarUtils
+instanceKlass com/mathworks/mde/editor/EditorVariableHighlightingStatusInfoProvider
+instanceKlass com/mathworks/widgets/text/mcode/variables/VariableStatusBarUtils$VariableHighlightingLayerStatusInfoProvider
+instanceKlass com/mathworks/mde/editor/plugins/editordataservice/VariableHighlightStatusBarFeatureProvider
+instanceKlass sun/awt/EventQueueDelegate$Delegate
+instanceKlass com/mathworks/mwswing/binding/InputMapUtils
+instanceKlass com/mathworks/mwswing/binding/KeySequenceDispatcher$BindingData
+instanceKlass java/security/DomainCombiner
+instanceKlass sun/awt/ModalExclude
+instanceKlass com/mathworks/install/OwningProductResponse
+instanceKlass com/mathworks/hwsmanagement/InstalledSupportPackage$Builder
+instanceKlass com/mathworks/install/InstalledProduct
+instanceKlass com/mathworks/widgets/spreadsheet/data/ComplexArray
+instanceKlass com/mathworks/widgets/spreadsheet/data/ValueSummary
+instanceKlass com/mathworks/widgets/spreadsheet/IReadOnlyData
+instanceKlass com/mathworks/mvm/exec/MvmSwingWorker$1$1
+instanceKlass javax/swing/JComponent$IntVector
+instanceKlass javax/swing/JComponent$KeyboardState
+instanceKlass java/awt/KeyboardFocusManager$5
+instanceKlass com/mathworks/toolbox/matlab/matlabwindowjava/handler/CefKeyEventUtils
+instanceKlass com/mathworks/toolbox/matlab/matlabwindowjava/handler/CefKeyEventAdapter$1
+instanceKlass com/mathworks/toolbox/matlab/matlabwindowjava/handler/CefKeyEventAdapter
+instanceKlass com/mathworks/mvm/exec/MvmSwingWorker$1
+instanceKlass com/mathworks/mde/liveeditor/LiveEditorToolSetFactory$7$1
+instanceKlass com/mathworks/mde/liveeditor/LiveEditorClient$48$1
+instanceKlass org/cef/misc/BoolRef
+instanceKlass org/cef/handler/CefKeyboardHandler$CefKeyEvent
+instanceKlass com/mathworks/mde/liveeditor/LiveEditorStatusBar$4
+instanceKlass com/mathworks/system/editor/toolstrip/MATLABCommandSender$1
+instanceKlass com/mathworks/system/editor/toolstrip/MATLABCommandSender$2
+instanceKlass com/mathworks/system/editor/toolstrip/ToolstripControllerImpl$1
+instanceKlass com/mathworks/widgets/desk/Desktop$45
+instanceKlass com/mathworks/mde/liveeditor/LiveEditorGlobalActionManager$SingletonHolder
+instanceKlass com/mathworks/mde/liveeditor/LiveEditorGlobalActionManager
+instanceKlass com/mathworks/mde/liveeditor/widget/rtc/RichDocument$9
+instanceKlass com/mathworks/toolbox/matlab/testframework/ui/toolstrip/TestsToolSetMatlabCommandSender$9
+instanceKlass com/mathworks/mde/find/FindFilesController
+instanceKlass com/mathworks/toolbox/matlab/testframework/ui/toolstrip/TestsToolSetMatlabCommandSender$1
+instanceKlass com/mathworks/system/editor/toolstrip/SystemLiveEditorToolstripTabContributor$Listeners$4
+instanceKlass com/mathworks/toolbox/matlab/testframework/ui/toolstrip/TestsLiveEditorToolstripContributor$$Lambda$43
+instanceKlass java/lang/invoke/LambdaForm$DMH
+instanceKlass java/util/ArrayDeque$DescendingIterator
+instanceKlass java/awt/font/TextHitInfo
+instanceKlass sun/awt/windows/WInputMethod$1
+instanceKlass com/mathworks/toolbox/matlab/matlabwindowjava/CEFWebComponent$5
+instanceKlass com/mathworks/desktop/overlay/impl/DefaultOverlayManager$OverlayItem
+instanceKlass com/google/common/primitives/IntsMethodsForWeb
+instanceKlass com/google/common/collect/MapMakerInternalMap$StrongValueEntry
+instanceKlass com/mathworks/util/logger/impl/LegacyLogger
+instanceKlass com/mathworks/util/logger/Logger
+instanceKlass com/mathworks/util/event/EventUtils$1
+instanceKlass com/mathworks/desktop/overlay/impl/DefaultOverlayManager$5
+instanceKlass com/mathworks/desktop/overlay/impl/DefaultOverlayManager$4
+instanceKlass com/mathworks/desktop/overlay/impl/DefaultOverlayManager$2
+instanceKlass com/mathworks/desktop/overlay/impl/DefaultOverlayManager$1
+instanceKlass com/google/common/collect/MapMakerInternalMap$WeakKeyStrongValueEntry$Helper
+instanceKlass com/google/common/collect/MapMakerInternalMap$InternalEntry
+instanceKlass com/google/common/collect/MapMakerInternalMap$1
+instanceKlass com/google/common/collect/MapMakerInternalMap$InternalEntryHelper
+instanceKlass com/google/common/collect/MapMakerInternalMap$WeakValueReference
+instanceKlass javax/swing/CompareTabOrderComparator
+instanceKlass com/mathworks/desktop/overlay/OverlayManagers$DefaultFactory
+instanceKlass com/mathworks/desktop/overlay/OverlayManagers$OverlayManagerFactory
+instanceKlass com/mathworks/desktop/overlay/OverlayManagers
+instanceKlass java/text/DigitList$1
+instanceKlass com/mathworks/widgets/grouptable/GroupingTableRow$1$1
+instanceKlass java/awt/MultipleGradientPaintContext
+instanceKlass java/awt/MultipleGradientPaint
+instanceKlass com/mathworks/mde/editor/plugins/matlab/RunMenuInfoCache$RunInfoData
+instanceKlass com/mathworks/widgets/desk/DTDropOutlinePainter
+instanceKlass com/mathworks/widgets/desk/DTDragUtilities
+instanceKlass java/util/concurrent/locks/ReentrantReadWriteLock$Sync$HoldCounter
+instanceKlass com/mathworks/mde/liveeditor/LiveEditorStatusBar$3
+instanceKlass com/mathworks/mde/liveeditor/LiveEditorStatusBar$6
+instanceKlass com/mathworks/mde/liveeditor/LiveEditorStatusBar$5
+instanceKlass com/mathworks/mde/liveeditor/LiveEditorStatusBar$2
+instanceKlass com/mathworks/mde/liveeditor/plugins/editordataservice/LiveEditorStatusBarService$1
+instanceKlass com/mathworks/mde/liveeditor/plugins/editordataservice/LiveEditorStatusBarServiceProvider
+instanceKlass com/mathworks/mde/liveeditor/plugins/editordataservice/LiveEditorSectionsService$1
+instanceKlass com/mathworks/mde/liveeditor/plugins/editordataservice/LiveEditorSectionsServiceProvider
+instanceKlass com/mathworks/mde/liveeditor/plugins/editordataservice/LiveEditorFunctionsService$1
+instanceKlass com/mathworks/mde/liveeditor/plugins/editordataservice/LiveEditorFunctionsServiceProvider
+instanceKlass com/mathworks/mde/liveeditor/ActionManager$12
+instanceKlass com/mathworks/mde/liveeditor/widget/rtc/RichTextComponent$4
+instanceKlass com/mathworks/mde/liveeditor/widget/rtc/RichTextComponent$7
+instanceKlass com/mathworks/widgets/desk/DTClient$DeferredPropertyChange
+instanceKlass com/mathworks/peermodel/synchronizer/utils/EventCoalescer$3$1
+instanceKlass java/awt/LightweightDispatcher$2
+instanceKlass com/mathworks/peermodel/synchronizer/utils/EventCoalescer$3
+instanceKlass com/mathworks/peermodel/synchronizer/utils/PropertyEventImpl
+instanceKlass com/mathworks/toolboxmanagement/ToolboxAppGalleryServiceProvider
+instanceKlass com/mathworks/addon_service_management_api/AddonServiceProvider
+instanceKlass java/awt/AWTEvent$2
+instanceKlass java/awt/LightweightDispatcher$1
+instanceKlass java/awt/Container$MouseEventTargetFilter
+instanceKlass java/awt/Container$EventTargetFilter
+instanceKlass org/cef/browser/CefBrowserWr$2$1
+instanceKlass com/mathworks/toolboxmanagement/ToolboxContributedToolsLoader$2
+instanceKlass com/mathworks/toolstrip/accessories/TSRobot
+instanceKlass com/mathworks/toolboxmanagement/ToolboxContributedToolsLoader$1
+instanceKlass com/mathworks/mde/embeddedoutputs/evaluation/LifeCycle
+instanceKlass com/mathworks/mde/embeddedoutputs/evaluation/LifeCycleProvider$LifeCycleFeature$1
+instanceKlass com/mathworks/mde/embeddedoutputs/evaluation/LifeCycleProvider
+instanceKlass com/mathworks/mde/editor/plugins/editordataservice/refactoring/RefactorFunctionFeature$GetFunctionNameSubscriber
+instanceKlass com/mathworks/mwswing/FileExtensionFilterUtils
+instanceKlass com/mathworks/mlwidgets/dialog/filters/AbstractToolboxFileFilterContributor
+instanceKlass javax/swing/filechooser/FileFilter
+instanceKlass com/mathworks/mlwidgets/dialog/filters/MatlabProductFileExtensionFilter
+instanceKlass com/mathworks/mde/editor/plugins/editordataservice/refactoring/RefactorFunctionFeatureProvider
+instanceKlass com/mathworks/mde/editor/plugins/editordataservice/MatlabPreferencesFeature$2
+instanceKlass com/mathworks/mde/liveeditor/LiveEditorPreferences
+instanceKlass com/mathworks/mde/editor/plugins/editordataservice/MatlabPreferencesFeatu
